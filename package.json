@@ -1,0 +1,10 @@
+{
+  "name": "onTelevisiON",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "nodemailer": "^6.4.11"
+  }
+}
